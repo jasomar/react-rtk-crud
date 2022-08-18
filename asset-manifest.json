@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-rtk-crud/static/css/main.21bf3a57.css",
+    "main.js": "/react-rtk-crud/static/js/main.faf12be4.js",
+    "index.html": "/react-rtk-crud/index.html",
+    "main.21bf3a57.css.map": "/react-rtk-crud/static/css/main.21bf3a57.css.map",
+    "main.faf12be4.js.map": "/react-rtk-crud/static/js/main.faf12be4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21bf3a57.css",
+    "static/js/main.faf12be4.js"
+  ]
+}
